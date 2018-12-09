@@ -7,7 +7,8 @@ Created as the second group project for the First Cohort of George Washington Un
 
 ![Screen shot](public/assets/images/jumbo.png)
 
-[Hand 'N Paw](https://pure-brook-61726.herokuapp.com/)
+Click below to explore the app 
+[# Hand 'N Paw](https://pure-brook-61726.herokuapp.com/ "Click to visit Hand 'N Paw at https://pure-brook-61726.herokuapp.com/")
 
 ## Built With
 
